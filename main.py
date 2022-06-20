@@ -1,3 +1,3 @@
-lista1 = ["gervasio", "Lourdes", "Lautaro", "emilia"]
+lista1 = []
 
-lista2 = ["adriana","gabi","jose"]
+lista2 = []
