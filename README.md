@@ -1,2 +1,2 @@
 # ispc
-practicas de la facultad
+# practicas de la carrera
