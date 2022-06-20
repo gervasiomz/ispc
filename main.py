@@ -1,3 +1,3 @@
-lista1 = []
+lista1 = ["prueba"]
 
-lista2 = []
+lista2 = ["prueba"]
